@@ -151,7 +151,7 @@ export default function MarketPlace({ courses }) {
 									// return <div style={{ height: '42px' }}></div>;
 									return (
 										<Button variant="white" disabled={true} size="sm">
-											Loading State...
+											{hasConnectedWallet ? 'Loading State...' : 'Connect'}
 										</Button>
 									);
 								}
