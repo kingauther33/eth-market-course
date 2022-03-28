@@ -1,0 +1,7 @@
+handle => web3 => () => {return web3 ? "Workin" : null}
+
+setUpHooks: (web3) => return handle(web3) (cai nay tra ve function kia nhan vao params)
+getHooks: function thuc hien setUpHooks
+useHooks(cb): function thuc hien getHooks va truyen getHooks vao mot callback
+
+useAccount(): function dung useHooks va lay hook tu getHooks de thuc hien handle
