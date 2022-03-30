@@ -1,0 +1,1830 @@
+[
+	{
+		"type": "dlc",
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC4 Jinchuriki Costume Pack 1",
+		"steam_appid": 301893,
+		"required_age": 0,
+		"is_free": false,
+		"detailed_description": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nNaruto (White Robe)<br />\r\nKiller Bee (White Robe)<br />\r\nFuu (White Robe)<br />\r\nUtakata (White Robe)",
+		"about_the_game": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nNaruto (White Robe)<br />\r\nKiller Bee (White Robe)<br />\r\nFuu (White Robe)<br />\r\nUtakata (White Robe)",
+		"short_description": "This pack contains the special Jinchuriki costumes for Naruto, Killer Bee, Fuu and Utakata.",
+		"fullgame": {
+			"appid": "272510",
+			"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
+		},
+		"supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301893/header.jpg?t=1489515587",
+		"website": "http://www.naruto-stormrevolution.com/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher with latest Service Pack<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core or AMD<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB video cards Pixel Shader 4.0 (Geforce 8xxx-ATI HD2xxx)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher with latest Service Pack<br></li><li><strong>Processor:</strong> Intel i3-530, 2.93Ghz / AMD Phenom II X4 940, 3.0GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1024 MB video card, Pixel Shader 4.0, DirectX10 GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"legal_notice": "© 2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All Rights Reserved. <br />\r\nGame © 2014 BANDAI NAMCO Games Inc.",
+		"developers": ["CyberConnect2 Co., Ltd."],
+		"publishers": ["BANDAI NAMCO Entertainment"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 3000000,
+			"final": 3000000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "30.000₫"
+		},
+		"packages": [44344],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC4 Jinchuriki Costume Pack 1",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44344,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "NARUTO SHIPPUDEN: ULTIMATE NINJA STORM REVOLUTION - DLC4 Jinchuriki Pack #1 - 30.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 3000000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 1,
+				"description": "Multi-player"
+			},
+			{
+				"id": 21,
+				"description": "Downloadable Content"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 18,
+				"description": "Partial Controller Support"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "1",
+				"description": "Action"
+			},
+			{
+				"id": "25",
+				"description": "Adventure"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_4c4dfbd12c45267ee7dda8e26dbbfc4e7a4365bc.600x338.jpg?t=1489515587",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_4c4dfbd12c45267ee7dda8e26dbbfc4e7a4365bc.1920x1080.jpg?t=1489515587"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_836d72be6ffb78f6a291c6cd87a4f94f36b8a168.600x338.jpg?t=1489515587",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_836d72be6ffb78f6a291c6cd87a4f94f36b8a168.1920x1080.jpg?t=1489515587"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_ee8d6258beef7c8755ab63e6a0800d46f89d56f2.600x338.jpg?t=1489515587",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_ee8d6258beef7c8755ab63e6a0800d46f89d56f2.1920x1080.jpg?t=1489515587"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_5507f21218ba5a49b781d6a33e4be40a99078a75.600x338.jpg?t=1489515587",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_5507f21218ba5a49b781d6a33e4be40a99078a75.1920x1080.jpg?t=1489515587"
+			},
+			{
+				"id": 4,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_f9b1822d1c220aa3be370971f3a64c816e853bb5.600x338.jpg?t=1489515587",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301893/ss_f9b1822d1c220aa3be370971f3a64c816e853bb5.1920x1080.jpg?t=1489515587"
+			}
+		],
+		"release_date": {
+			"coming_soon": false,
+			"date": "15 Sep, 2014"
+		},
+		"support_info": {
+			"url": "http://www.bandainamcoent.com/support",
+			"email": "support@namcobandaient.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301893/page_bg_generated_v6b.jpg?t=1489515587",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301893/page.bg.jpg?t=1489515587",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "dlc",
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC5 Jinchuriki Costume Pack 2",
+		"steam_appid": 301894,
+		"required_age": 0,
+		"is_free": false,
+		"detailed_description": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nGaara (White Robe)<br />\r\nYugito (White Robe)<br />\r\nYagura (White Robe)<br />\r\nRoshi (White Robe)<br />\r\nHan (White Robe)",
+		"about_the_game": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nGaara (White Robe)<br />\r\nYugito (White Robe)<br />\r\nYagura (White Robe)<br />\r\nRoshi (White Robe)<br />\r\nHan (White Robe)",
+		"short_description": "This pack contains the special Jinchuriki costumes for Gaara, Yugito, Yagura, Roshi, and Han.",
+		"fullgame": {
+			"appid": "272510",
+			"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
+		},
+		"supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301894/header.jpg?t=1489665889",
+		"website": "http://www.naruto-stormrevolution.com/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher with latest Service Pack<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core or AMD<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB video cards Pixel Shader 4.0 (Geforce 8xxx-ATI HD2xxx)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher with latest Service Pack<br></li><li><strong>Processor:</strong> Intel i3-530, 2.93Ghz / AMD Phenom II X4 940, 3.0GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1024 MB video card, Pixel Shader 4.0, DirectX10 GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"legal_notice": "© 2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All Rights Reserved. <br />\r\nGame © 2014 BANDAI NAMCO Games Inc.",
+		"developers": ["CyberConnect2 Co., Ltd."],
+		"publishers": ["BANDAI NAMCO Entertainment"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 3000000,
+			"final": 3000000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "30.000₫"
+		},
+		"packages": [44346],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC5 Jinchuriki Costume Pack 2",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44346,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "NARUTO SHIPPUDEN: ULTIMATE NINJA STORM REVOLUTION - DLC5 Jinchuriki Pack #2 - 30.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 3000000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 1,
+				"description": "Multi-player"
+			},
+			{
+				"id": 21,
+				"description": "Downloadable Content"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 18,
+				"description": "Partial Controller Support"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "1",
+				"description": "Action"
+			},
+			{
+				"id": "25",
+				"description": "Adventure"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_ec27a48afdada9c8847bd058681f298b09ad5b6b.600x338.jpg?t=1489665889",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_ec27a48afdada9c8847bd058681f298b09ad5b6b.1920x1080.jpg?t=1489665889"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_c119c01652ad8d4fc0a40b9a2b7d8c9bc51ffcf9.600x338.jpg?t=1489665889",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_c119c01652ad8d4fc0a40b9a2b7d8c9bc51ffcf9.1920x1080.jpg?t=1489665889"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_02bb667f38a44a713971b1acaf460ea35281836f.600x338.jpg?t=1489665889",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_02bb667f38a44a713971b1acaf460ea35281836f.1920x1080.jpg?t=1489665889"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_3e1bdb1a57cea0dec7d30e7b2b1ba58c5448336b.600x338.jpg?t=1489665889",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_3e1bdb1a57cea0dec7d30e7b2b1ba58c5448336b.1920x1080.jpg?t=1489665889"
+			},
+			{
+				"id": 4,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_14f1babf75844ce9ef1bde3999d785031f8b853f.600x338.jpg?t=1489665889",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_14f1babf75844ce9ef1bde3999d785031f8b853f.1920x1080.jpg?t=1489665889"
+			},
+			{
+				"id": 5,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_b50e906bc446042541d1680f555537c4e3cc881b.600x338.jpg?t=1489665889",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_b50e906bc446042541d1680f555537c4e3cc881b.1920x1080.jpg?t=1489665889"
+			},
+			{
+				"id": 6,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_cf270f29cea31faeac6e1b539682785dbf4009b4.600x338.jpg?t=1489665889",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301894/ss_cf270f29cea31faeac6e1b539682785dbf4009b4.1920x1080.jpg?t=1489665889"
+			}
+		],
+		"release_date": {
+			"coming_soon": false,
+			"date": "15 Sep, 2014"
+		},
+		"support_info": {
+			"url": "http://www.bandainamcoent.com/support",
+			"email": "support@bandainamcoent.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301894/page_bg_generated_v6b.jpg?t=1489665889",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301894/page.bg.jpg?t=1489665889",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "dlc",
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC6 Suit Pack",
+		"steam_appid": 301895,
+		"required_age": 0,
+		"is_free": false,
+		"detailed_description": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nNaruto (Suit)<br />\r\nSasuke (Suit)<br />\r\nShikamaru (Suit)<br />\r\nGaara (Suit)<br />\r\nSai (Suit)<br />\r\nMinato (Suit)",
+		"about_the_game": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nNaruto (Suit)<br />\r\nSasuke (Suit)<br />\r\nShikamaru (Suit)<br />\r\nGaara (Suit)<br />\r\nSai (Suit)<br />\r\nMinato (Suit)",
+		"short_description": "This pack contains the suit costumes for Naruto, Sasuke, Shikamaru, Gaara, Sai, and Minato.",
+		"fullgame": {
+			"appid": "272510",
+			"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
+		},
+		"supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301895/header.jpg?t=1489665935",
+		"website": "http://www.naruto-stormrevolution.com/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher with latest Service Pack<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core or AMD<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB video cards Pixel Shader 4.0 (Geforce 8xxx-ATI HD2xxx)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher with latest Service Pack<br></li><li><strong>Processor:</strong> Intel i3-530, 2.93Ghz / AMD Phenom II X4 940, 3.0GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1024 MB video card, Pixel Shader 4.0, DirectX10 GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"legal_notice": "© 2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All Rights Reserved. <br />\r\nGame © 2014 BANDAI NAMCO Games Inc.",
+		"developers": ["CyberConnect2 Co., Ltd."],
+		"publishers": ["BANDAI NAMCO Entertainment"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 3000000,
+			"final": 3000000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "30.000₫"
+		},
+		"packages": [44348],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC6 Suit Pack",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44348,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "NARUTO SHIPPUDEN: ULTIMATE NINJA STORM REVOLUTION - DLC6 Suit Pack - 30.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 3000000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 1,
+				"description": "Multi-player"
+			},
+			{
+				"id": 21,
+				"description": "Downloadable Content"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 18,
+				"description": "Partial Controller Support"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "1",
+				"description": "Action"
+			},
+			{
+				"id": "25",
+				"description": "Adventure"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_714da33c261ad8e642ad06aa763d8731dfbe6c80.600x338.jpg?t=1489665935",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_714da33c261ad8e642ad06aa763d8731dfbe6c80.1920x1080.jpg?t=1489665935"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_1717ecae11e08ed008cf41c575074a04808873c2.600x338.jpg?t=1489665935",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_1717ecae11e08ed008cf41c575074a04808873c2.1920x1080.jpg?t=1489665935"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_6f6d160b0699f0412e112a776f011bbbf9e410a3.600x338.jpg?t=1489665935",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_6f6d160b0699f0412e112a776f011bbbf9e410a3.1920x1080.jpg?t=1489665935"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_691654d6f6d977eeb0bfb16b765d74d7ad3a10c6.600x338.jpg?t=1489665935",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_691654d6f6d977eeb0bfb16b765d74d7ad3a10c6.1920x1080.jpg?t=1489665935"
+			},
+			{
+				"id": 4,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_47fba678e53ff0c0202a9521d8a5d3d895340f6a.600x338.jpg?t=1489665935",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_47fba678e53ff0c0202a9521d8a5d3d895340f6a.1920x1080.jpg?t=1489665935"
+			},
+			{
+				"id": 5,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_74c5edf04c492790e7c8f34c5f98a3d58321d966.600x338.jpg?t=1489665935",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301895/ss_74c5edf04c492790e7c8f34c5f98a3d58321d966.1920x1080.jpg?t=1489665935"
+			}
+		],
+		"release_date": {
+			"coming_soon": false,
+			"date": "30 Sep, 2014"
+		},
+		"support_info": {
+			"url": "http://www.bandainamcoent.com/support",
+			"email": "support@bandainamcoent.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301895/page_bg_generated_v6b.jpg?t=1489665935",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301895/page.bg.jpg?t=1489665935",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "dlc",
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC7 Variety Pack 1",
+		"steam_appid": 301896,
+		"required_age": 0,
+		"is_free": false,
+		"detailed_description": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nThe Third Hokage (Hokage Costume)<br />\r\nItachi (w/o Cloak)<br />\r\nKakashi (Kakuzu Battle Costume)<br />\r\nThe First Hokage (Hokage Costume)<br />\r\nZabuza (Hidden Mist Costume)",
+		"about_the_game": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nThe Third Hokage (Hokage Costume)<br />\r\nItachi (w/o Cloak)<br />\r\nKakashi (Kakuzu Battle Costume)<br />\r\nThe First Hokage (Hokage Costume)<br />\r\nZabuza (Hidden Mist Costume)",
+		"short_description": "This pack contains additional costumes for the Third Hokage, Itachi, Kakashi, the First Hokage, and Zabuza.",
+		"fullgame": {
+			"appid": "272510",
+			"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
+		},
+		"supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301896/header.jpg?t=1489665971",
+		"website": "http://www.naruto-stormrevolution.com/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher with latest Service Pack<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core or AMD<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB video cards Pixel Shader 4.0 (Geforce 8xxx-ATI HD2xxx)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher with latest Service Pack<br></li><li><strong>Processor:</strong> Intel i3-530, 2.93Ghz / AMD Phenom II X4 940, 3.0GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1024 MB video card, Pixel Shader 4.0, DirectX10 GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"legal_notice": "© 2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All Rights Reserved. <br />\r\nGame © 2014 BANDAI NAMCO Games Inc.",
+		"developers": ["CyberConnect2 Co., Ltd."],
+		"publishers": ["BANDAI NAMCO Entertainment"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 3000000,
+			"final": 3000000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "30.000₫"
+		},
+		"packages": [44350],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC7 Variety Pack 1",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44350,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "NARUTO SHIPPUDEN: ULTIMATE NINJA STORM REVOLUTION - DLC7 Variety Pack #1 - 30.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 3000000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 1,
+				"description": "Multi-player"
+			},
+			{
+				"id": 21,
+				"description": "Downloadable Content"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 18,
+				"description": "Partial Controller Support"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "1",
+				"description": "Action"
+			},
+			{
+				"id": "25",
+				"description": "Adventure"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301896/ss_5da26cd00f5cfb6a534c1096038f088f737adec7.600x338.jpg?t=1489665971",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301896/ss_5da26cd00f5cfb6a534c1096038f088f737adec7.1920x1080.jpg?t=1489665971"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301896/ss_8e3c931a635e8ec694886c5dcb7e79a7dba732f4.600x338.jpg?t=1489665971",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301896/ss_8e3c931a635e8ec694886c5dcb7e79a7dba732f4.1920x1080.jpg?t=1489665971"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301896/ss_ad59aabda4e08bdd89561b37b4b476ab434f49df.600x338.jpg?t=1489665971",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301896/ss_ad59aabda4e08bdd89561b37b4b476ab434f49df.1920x1080.jpg?t=1489665971"
+			}
+		],
+		"release_date": {
+			"coming_soon": false,
+			"date": "7 Oct, 2014"
+		},
+		"support_info": {
+			"url": "http://www.bandainamcoent.com/support",
+			"email": "support@bandainamcoent.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301896/page_bg_generated_v6b.jpg?t=1489665971",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301896/page.bg.jpg?t=1489665971",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "dlc",
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC8 Variety Pack 2",
+		"steam_appid": 301897,
+		"required_age": 0,
+		"is_free": false,
+		"detailed_description": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nMadara (Black Robe)<br />\r\nKarin (Taka)<br />\r\nJugo (Taka)<br />\r\nSuigetsu (Taka)<br />\r\nMifune (Five Kage Summit)<br />\r\nPart 1 Naruto (Pajamas)",
+		"about_the_game": "The following characters' costumes will be available in Free Battle and Online Battle of NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution:<br />\r\nMadara (Black Robe)<br />\r\nKarin (Taka)<br />\r\nJugo (Taka)<br />\r\nSuigetsu (Taka)<br />\r\nMifune (Five Kage Summit)<br />\r\nPart 1 Naruto (Pajamas)",
+		"short_description": "This pack contains additional costumes for Madara, Karin, Jugo, Suigetsu, Mifune, and Naruto.",
+		"fullgame": {
+			"appid": "272510",
+			"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
+		},
+		"supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301897/header.jpg?t=1489666006",
+		"website": "http://www.naruto-stormrevolution.com/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher with latest Service Pack<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core or AMD<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB video cards Pixel Shader 4.0 (Geforce 8xxx-ATI HD2xxx)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher with latest Service Pack<br></li><li><strong>Processor:</strong> Intel i3-530, 2.93Ghz / AMD Phenom II X4 940, 3.0GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1024 MB video card, Pixel Shader 4.0, DirectX10 GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"legal_notice": "© 2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All Rights Reserved. <br />\r\nGame © 2014 BANDAI NAMCO Games Inc.",
+		"developers": ["CyberConnect2 Co., Ltd."],
+		"publishers": ["BANDAI NAMCO Entertainment"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 3000000,
+			"final": 3000000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "30.000₫"
+		},
+		"packages": [44352],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC8 Variety Pack 2",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44352,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "NARUTO SHIPPUDEN: ULTIMATE NINJA STORM REVOLUTION - DLC8 Variety Pack #2 - 30.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 3000000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 1,
+				"description": "Multi-player"
+			},
+			{
+				"id": 21,
+				"description": "Downloadable Content"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 18,
+				"description": "Partial Controller Support"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "1",
+				"description": "Action"
+			},
+			{
+				"id": "25",
+				"description": "Adventure"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_11d304193a3130d7bf3d5bd39e1c3a4607c3b545.600x338.jpg?t=1489666006",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_11d304193a3130d7bf3d5bd39e1c3a4607c3b545.1920x1080.jpg?t=1489666006"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_15afdd08304b69db1e01319c74e8abb6c7ea74b3.600x338.jpg?t=1489666006",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_15afdd08304b69db1e01319c74e8abb6c7ea74b3.1920x1080.jpg?t=1489666006"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_2ee34eb42579894d8aebd96105e4596c438d33c1.600x338.jpg?t=1489666006",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_2ee34eb42579894d8aebd96105e4596c438d33c1.1920x1080.jpg?t=1489666006"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_6bbb6bb0bec0b1be6f18256dd4fc96de993e9f60.600x338.jpg?t=1489666006",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301897/ss_6bbb6bb0bec0b1be6f18256dd4fc96de993e9f60.1920x1080.jpg?t=1489666006"
+			}
+		],
+		"release_date": {
+			"coming_soon": false,
+			"date": "14 Oct, 2014"
+		},
+		"support_info": {
+			"url": "http://www.bandainamcoent.com/support",
+			"email": "support@bandainamcoent.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301897/page_bg_generated_v6b.jpg?t=1489666006",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301897/page.bg.jpg?t=1489666006",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "dlc",
+		"name": "Zombie Driver HD Brutal Car Skins",
+		"steam_appid": 301900,
+		"required_age": 0,
+		"is_free": false,
+		"controller_support": "full",
+		"detailed_description": "Download this pack of 7 awesome skins for the classic Zombie Driver cars. The new car skins include a stylish black taxi, metallic sports car, pimp limousine, yellow ambulance, hippy bus, evil super car and the muscle car of death.",
+		"about_the_game": "Download this pack of 7 awesome skins for the classic Zombie Driver cars. The new car skins include a stylish black taxi, metallic sports car, pimp limousine, yellow ambulance, hippy bus, evil super car and the muscle car of death.",
+		"short_description": "Download this pack of 7 awesome skins for the classic Zombie Driver cars.",
+		"fullgame": {
+			"appid": "220820",
+			"name": "Zombie Driver HD"
+		},
+		"supported_languages": "English, French, German, Italian, Polish, Spanish - Spain",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301900/header.jpg?t=1447361912",
+		"website": "http://www.zombiedriver.com",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8/7/Vista/XP<br>\t</li><li><strong>Processor:</strong> 1.5 GHz dual core processor<br>\t</li><li><strong>Memory:</strong> 1 GB<br>\t</li><li><strong>Graphics:</strong> 256 MB DirectX 9.0c compatible or better video card with pixelshader 3.0<br>\t</li><li><strong>DirectX®:</strong> DirectX 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 2 GB<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c compatible sound card</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8/7/Vista/XP<br>\t</li><li><strong>Processor:</strong> 2.0 GHz dual core processor<br>\t</li><li><strong>Memory:</strong> 2 GB<br>\t</li><li><strong>Graphics:</strong> 512 MB DirectX 9.0c compatible or better video card with pixelshader 3.0<br>\t</li><li><strong>DirectX®:</strong> DirectX 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 2 GB<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c compatible sound card</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"developers": ["Exor Studios"],
+		"publishers": ["Exor Studios"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 1500000,
+			"final": 1500000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "15.000₫"
+		},
+		"packages": [44354, 48344],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy Zombie Driver HD Brutal Car Skins",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44354,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "Zombie Driver HD Brutal Car Skins - 15.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 1500000
+					},
+					{
+						"packageid": 48344,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "Zombie Driver HD Complete Edition - 165.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 16500000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 21,
+				"description": "Downloadable Content"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 28,
+				"description": "Full controller support"
+			},
+			{
+				"id": 29,
+				"description": "Steam Trading Cards"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 15,
+				"description": "Stats"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "1",
+				"description": "Action"
+			},
+			{
+				"id": "23",
+				"description": "Indie"
+			},
+			{
+				"id": "9",
+				"description": "Racing"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_edcfe0c1f4b63b3e6c8a8c1b93f58af3cd4284d4.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_edcfe0c1f4b63b3e6c8a8c1b93f58af3cd4284d4.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_a996dd0635239436af638d52cf40021a1ded7fb9.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_a996dd0635239436af638d52cf40021a1ded7fb9.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_4007af44b5924bcde2848176ac49c041613c9176.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_4007af44b5924bcde2848176ac49c041613c9176.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_bbd9c5f7958bb060e39d63719a8b6aa5511d6f36.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_bbd9c5f7958bb060e39d63719a8b6aa5511d6f36.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 4,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_4a2e21d53c4c5728512fe78b19a8736472443c1d.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_4a2e21d53c4c5728512fe78b19a8736472443c1d.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 5,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_b5c1720bff1329f4a32478d589529f15c7382a2f.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_b5c1720bff1329f4a32478d589529f15c7382a2f.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 6,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_eecb3bfbe5de154bcc956b9bae025b8f0fdfd06d.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_eecb3bfbe5de154bcc956b9bae025b8f0fdfd06d.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 7,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_078e91a18b58efe8e922265f7866530a0d819076.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_078e91a18b58efe8e922265f7866530a0d819076.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 8,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_3be8f35f51d322906d1234ead3f2cc8fe4815ef4.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_3be8f35f51d322906d1234ead3f2cc8fe4815ef4.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 9,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_cc99c7389462a8e3cc1666ea262e58fd6d30ce78.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_cc99c7389462a8e3cc1666ea262e58fd6d30ce78.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 10,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_ceab25b666bc809d7fcdb9f234b0817d2ac72582.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_ceab25b666bc809d7fcdb9f234b0817d2ac72582.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 11,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_d36a742c76b4492a91235e47692560f11467a17e.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_d36a742c76b4492a91235e47692560f11467a17e.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 12,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_4caae2d4c86501fecc0d5e6bdc529e5fd9792dc5.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_4caae2d4c86501fecc0d5e6bdc529e5fd9792dc5.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 13,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_34ed487655ed29d68e8ff017eb4aab484255a049.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_34ed487655ed29d68e8ff017eb4aab484255a049.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 14,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_304e73ba0bd168dec1a80f8dbe11c7f5269fca10.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_304e73ba0bd168dec1a80f8dbe11c7f5269fca10.1920x1080.jpg?t=1447361912"
+			},
+			{
+				"id": 15,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_accddd86412c871aef66151e1153b67dfe7fe81e.600x338.jpg?t=1447361912",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301900/ss_accddd86412c871aef66151e1153b67dfe7fe81e.1920x1080.jpg?t=1447361912"
+			}
+		],
+		"release_date": {
+			"coming_soon": false,
+			"date": "27 Aug, 2014"
+		},
+		"support_info": {
+			"url": "",
+			"email": "support@zombiedriver.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301900/page_bg_generated_v6b.jpg?t=1447361912",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301900/page.bg.jpg?t=1447361912",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "game",
+		"name": "Saints Row: Gat out of Hell",
+		"steam_appid": 301910,
+		"required_age": 0,
+		"is_free": false,
+		"controller_support": "full",
+		"dlc": [318850],
+		"detailed_description": "<h1>Remastered Coming Soon!</h1><p><a href=\"https://store.steampowered.com/app/978300/Saints_Row_The_Third_Remastered/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/978300/Saints_Row_The_Third_Remastered/</a></p><br><h1>About the Game</h1>After the space faring antics of Saints Row IV, many fans asked what we could do next… the answer?  Shoot The Devil in the face.  Play as either Johnny Gat or Kinzie Kensington as you tear apart Hell in a quest to save the leader of the Saints’ soul.  Historical icons, old friends, older enemies, a talking gun, a full length musical number, and a whole lot of other shenanigans all await you in the open world standalone expansion playground that is Saints Row: Gat Out Of Hell.   <br><br><ul class=\"bb_ul\"><li><strong>Play as Johnny Gat or Kinzie Kensington </strong>– For the first time ever, play as the fan favorites Johnny Gat and Kinzie Kensington, alone or in 2-player online co-op. <br></li><li><strong>An Open World from Hell</strong> – Wage war against the Prince of Darkness through-out the 5 unique districts of hell any way you want: rescue allies, pick a fight with nightmarish Arch-Dukes, rob Satan’s soul processing plants… dozens of options await you in an all new city unlike any that’s been seen in Saints Row before.<br></li><li><strong>New Supernatural Powers</strong> –The acclaimed super powers of Saints Row 4 are back with a hellish twist -  Soar through the air on fallen angel’s wings, summon devilish imps to attack your foes, and surround yourself in a divine aura that forces all to worship you. <br></li><li><strong>Outrageous Weapons</strong> – Put the 7 deadly sins to good use with an arsenal of underworld themed arms: fire exploding frogs at enemies, shoot swarms of locusts, and even deal destruction from afterlife’s most comfortable (and lethal) armchair.<br></li><li><strong>Kill Dex</strong> – We promise you can do it this time.  Pinky swear.</li></ul>",
+		"about_the_game": "After the space faring antics of Saints Row IV, many fans asked what we could do next… the answer?  Shoot The Devil in the face.  Play as either Johnny Gat or Kinzie Kensington as you tear apart Hell in a quest to save the leader of the Saints’ soul.  Historical icons, old friends, older enemies, a talking gun, a full length musical number, and a whole lot of other shenanigans all await you in the open world standalone expansion playground that is Saints Row: Gat Out Of Hell.   <br><br><ul class=\"bb_ul\"><li><strong>Play as Johnny Gat or Kinzie Kensington </strong>– For the first time ever, play as the fan favorites Johnny Gat and Kinzie Kensington, alone or in 2-player online co-op. <br></li><li><strong>An Open World from Hell</strong> – Wage war against the Prince of Darkness through-out the 5 unique districts of hell any way you want: rescue allies, pick a fight with nightmarish Arch-Dukes, rob Satan’s soul processing plants… dozens of options await you in an all new city unlike any that’s been seen in Saints Row before.<br></li><li><strong>New Supernatural Powers</strong> –The acclaimed super powers of Saints Row 4 are back with a hellish twist -  Soar through the air on fallen angel’s wings, summon devilish imps to attack your foes, and surround yourself in a divine aura that forces all to worship you. <br></li><li><strong>Outrageous Weapons</strong> – Put the 7 deadly sins to good use with an arsenal of underworld themed arms: fire exploding frogs at enemies, shoot swarms of locusts, and even deal destruction from afterlife’s most comfortable (and lethal) armchair.<br></li><li><strong>Kill Dex</strong> – We promise you can do it this time.  Pinky swear.</li></ul>",
+		"short_description": "Join Johnny Gat &amp; Kinzie Kensington as you tear apart Hell in a quest to save the Boss’ soul. Historical icons, old friends, older enemies, a talking gun, a full length musical number &amp; a whole lot more shenanigans await!",
+		"supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301910/header.jpg?t=1620658933",
+		"website": "http://www.saintsrow.com/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista (x86 or x64)<br></li><li><strong>Processor:</strong> Intel Core 2 Quad Q6600 | AMD Athlon II x3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 260 | AMD Radeon HD 5800 series<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 (x86 or x64)<br></li><li><strong>Processor:</strong> Intel i3 2100T | AMD Phenom II x4 or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 560 | AMD Radeon HD 6800 series or higher<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04.3 LTS or SteamOS Brewmaster<br></li><li><strong>Processor:</strong> Intel Core i3-2100 (3.1 GHz) or AMD Athlon II X4 645 AM3 (3.1 GHz)<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 440 (1024 MB) or Radeon HD 6670 (1024 MB)<br></li><li><strong>Storage:</strong> 7 GB available space<br></li><li><strong>Additional Notes:</strong> Recommended Graphics Drivers: Nvidia: 352, 355 or 358 series driver / AMD: AMD Catalyst (fglrx) 15.9 or better. MESA drivers and Intel Graphics are not currently supported.</li></ul>",
+			"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04.3 LTS or SteamOS Brewmaster<br></li><li><strong>Processor:</strong> Intel Core i5-2500K (3.3 GHz) or AMD FX-4300 (3.8 GHz)<br></li><li><strong>Memory:</strong> 8192 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 (2048 MB) or Radeon HD 6970 (2048 MB)<br></li><li><strong>Storage:</strong> 7 GB available space<br></li><li><strong>Additional Notes:</strong> Recommended Graphics Drivers: Nvidia: 352, 355 or 358 series driver / AMD: AMD Catalyst (fglrx) 15.9 or better. MESA drivers and Intel Graphics are not currently supported.</li></ul>"
+		},
+		"legal_notice": "© 2014 by Koch Media GmbH, Gewerbegebiet 1, 6604 Höfen, Austria. Deep Silver is a division of Koch Media GmbH.<br />\r\nDeveloped by Deep Silver Volition, LLC. Saints Row, Deep Silver and their respective logos are trademarks of Koch Media. <br />\r\nAll other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
+		"developers": ["Deep Silver Volition", "High Voltage Software"],
+		"publishers": ["Deep Silver"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 16500000,
+			"final": 16500000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "165.000₫"
+		},
+		"packages": [59040],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy Saints Row: Gat out of Hell",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 59040,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "Saints Row: Gat out of Hell - 165.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 16500000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": true
+		},
+		"metacritic": {
+			"score": 66,
+			"url": "https://www.metacritic.com/game/pc/saints-row-gat-out-of-hell?ftag=MCD-06-10aaa1f"
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 1,
+				"description": "Multi-player"
+			},
+			{
+				"id": 9,
+				"description": "Co-op"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 28,
+				"description": "Full controller support"
+			},
+			{
+				"id": 29,
+				"description": "Steam Trading Cards"
+			},
+			{
+				"id": 43,
+				"description": "Remote Play on TV"
+			}
+		],
+		"genres": [
+			{
+				"id": "1",
+				"description": "Action"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_8a18fe0b549b5ef7763d62af69251507a4cdcdff.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_8a18fe0b549b5ef7763d62af69251507a4cdcdff.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_1c1113176d1015228b67f60007ef2626bf53ea85.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_1c1113176d1015228b67f60007ef2626bf53ea85.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_48202a1322f1b37199729c0557471415f15d7531.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_48202a1322f1b37199729c0557471415f15d7531.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_658d0efb7e4ad389f2b6fe4a7b92ade105a2ccec.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_658d0efb7e4ad389f2b6fe4a7b92ade105a2ccec.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 4,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_834ea5cf1c42e358dfd588e1e07ca911da8401e1.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_834ea5cf1c42e358dfd588e1e07ca911da8401e1.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 5,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_35b6c9f5f36917c1092437706fda3b1d79183699.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_35b6c9f5f36917c1092437706fda3b1d79183699.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 6,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_615e410242de9dddc4d16ff603f653e00f76cf71.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_615e410242de9dddc4d16ff603f653e00f76cf71.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 7,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_7c307ba068283df5c3da14c15bf1db0972caa3eb.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_7c307ba068283df5c3da14c15bf1db0972caa3eb.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 8,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_3eb7a15998207714c3d70ee18a67ab92330095aa.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_3eb7a15998207714c3d70ee18a67ab92330095aa.1920x1080.jpg?t=1620658933"
+			},
+			{
+				"id": 9,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_2d8b87810a7b91c7fad01ea0aa49eff9958cb8e9.600x338.jpg?t=1620658933",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_2d8b87810a7b91c7fad01ea0aa49eff9958cb8e9.1920x1080.jpg?t=1620658933"
+			}
+		],
+		"movies": [
+			{
+				"id": 2034998,
+				"name": "7 Sins Trailer",
+				"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2034998/movie.293x165.jpg?t=1447364239",
+				"webm": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2034998/movie480.webm?t=1447364239",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2034998/movie_max.webm?t=1447364239"
+				},
+				"mp4": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2034998/movie480.mp4?t=1447364239",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2034998/movie_max.mp4?t=1447364239"
+				},
+				"highlight": true
+			},
+			{
+				"id": 2034265,
+				"name": "Saints Row: Gat Out of Hell Announcement Trailer",
+				"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2034265/movie.293x165.jpg?t=1447363486",
+				"webm": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2034265/movie480.webm?t=1447363486",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2034265/movie_max.webm?t=1447363486"
+				},
+				"mp4": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2034265/movie480.mp4?t=1447363486",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2034265/movie_max.mp4?t=1447363486"
+				},
+				"highlight": true
+			},
+			{
+				"id": 2034666,
+				"name": "Saints Row: Gat out of Hell - Walkthrough",
+				"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2034666/movie.293x165.jpg?t=1447363847",
+				"webm": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2034666/movie480.webm?t=1447363847",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2034666/movie_max.webm?t=1447363847"
+				},
+				"mp4": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2034666/movie480.mp4?t=1447363847",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2034666/movie_max.mp4?t=1447363847"
+				},
+				"highlight": true
+			},
+			{
+				"id": 2036630,
+				"name": "Launch Trailer PEGI",
+				"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2036630/movie.293x165.jpg?t=1447367657",
+				"webm": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2036630/movie480.webm?t=1447367657",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2036630/movie_max.webm?t=1447367657"
+				},
+				"mp4": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2036630/movie480.mp4?t=1447367657",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2036630/movie_max.mp4?t=1447367657"
+				},
+				"highlight": true
+			}
+		],
+		"recommendations": {
+			"total": 6870
+		},
+		"achievements": {
+			"total": 45,
+			"highlighted": [
+				{
+					"name": "Fallen Angel",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/2eadd0971527e9c7c291d87933fce5affefc6d97.jpg"
+				},
+				{
+					"name": "H-E...",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/3b678afc27f0c0301741c9f1b6f823ecad45341b.jpg"
+				},
+				{
+					"name": "...Double-Hockey-Sticks",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/a63fd6797fe319536757d5d52f71d4bb293cf75e.jpg"
+				},
+				{
+					"name": "Fly, You Fools",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/274bd8e2bb494bb5c7da90740d364d05f9718577.jpg"
+				},
+				{
+					"name": "The Wings of Angels",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/0f200dfe71a2a559ef1d5c829b3250ffa136f383.jpg"
+				},
+				{
+					"name": "Get Stoned",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/18cd8448e1c7bf079075e68bb35b5b1e134176de.jpg"
+				},
+				{
+					"name": "Footprints in the Sand",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/f5b2daf5c153148ea6ab853a0e47c2563f497aaf.jpg"
+				},
+				{
+					"name": "Purple Demons",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/cfd236568ab567f03d7b3ec692847ea6ccbcb44b.jpg"
+				},
+				{
+					"name": "Oxymoronic",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/fb348761e306da43e61641705245b16fe1925bd8.jpg"
+				},
+				{
+					"name": "The Seven Deadly Weapons",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301910/f2567cdd3940868c0ecbbdc66705acdfd461a417.jpg"
+				}
+			]
+		},
+		"release_date": {
+			"coming_soon": false,
+			"date": "22 Jan, 2015"
+		},
+		"support_info": {
+			"url": "helpcenter.deepsilver.com",
+			"email": ""
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301910/page_bg_generated_v6b.jpg?t=1620658933",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301910/page.bg.jpg?t=1620658933",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "game",
+		"name": "War of the Human Tanks - ALTeR",
+		"steam_appid": 301920,
+		"required_age": 0,
+		"is_free": false,
+		"detailed_description": "Human Tanks - ALTeR is the second installment of the War of the Human Tanks series, and sequel to War of the Human Tanks. This time you assume command of the enemy of the first game, the Royal Army, and fight back for all you hold dear!<br><br>War of the Human Tanks is a story driven strategy game with a gameplay reminiscent of Battleship and Chess, featuring a story of war, loyalty, sacrifice and human shaped tanks.<br><br>Following the events of the first War of the Human Tanks, the land of Japon is in chaos, with the embers of the war between the Kingdom of Japon and the Empire of Japon still burning bright, as new factions emerge onto the battlefield. <br><br>Assume control of Alter Matsuyukishiro and lead the Matsuyukishiro Company of the Royal Army on a mission to eliminate a traitor to the Kingdom. But not all is as it seems in this war. When the guns fall silent, is tragedy all that awaits?<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Over 100 Missions<br></li><li>Over 250 Human Tanks to battle, develop, build and recruit<br></li><li>Dozens of modules to develop and customize your tanks with<br></li><li>Replay the game in New Game+ keeping your previously unlocked units and resources<br></li><li>Practice and gather extra supplies in Free Battle mode<br></li><li>English localization features hand-drawn battle backgrounds and an improved user interface</li></ul>",
+		"about_the_game": "Human Tanks - ALTeR is the second installment of the War of the Human Tanks series, and sequel to War of the Human Tanks. This time you assume command of the enemy of the first game, the Royal Army, and fight back for all you hold dear!<br><br>War of the Human Tanks is a story driven strategy game with a gameplay reminiscent of Battleship and Chess, featuring a story of war, loyalty, sacrifice and human shaped tanks.<br><br>Following the events of the first War of the Human Tanks, the land of Japon is in chaos, with the embers of the war between the Kingdom of Japon and the Empire of Japon still burning bright, as new factions emerge onto the battlefield. <br><br>Assume control of Alter Matsuyukishiro and lead the Matsuyukishiro Company of the Royal Army on a mission to eliminate a traitor to the Kingdom. But not all is as it seems in this war. When the guns fall silent, is tragedy all that awaits?<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Over 100 Missions<br></li><li>Over 250 Human Tanks to battle, develop, build and recruit<br></li><li>Dozens of modules to develop and customize your tanks with<br></li><li>Replay the game in New Game+ keeping your previously unlocked units and resources<br></li><li>Practice and gather extra supplies in Free Battle mode<br></li><li>English localization features hand-drawn battle backgrounds and an improved user interface</li></ul>",
+		"short_description": "Human Tanks - ALTeR is the much-awaited second installment of the War of the Human Tanks series, and sequel to War of the Human Tanks. This time you assume command of the enemy of the first game, the Royal Army, and fight back for all you hold dear!",
+		"supported_languages": "English",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301920/header.jpg?t=1645780663",
+		"website": "http://fruitbatfactory.com/humantanks/alter/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10/11<br></li><li><strong>Processor:</strong> PentiumIII or higher<br></li><li><strong>Memory:</strong> 512 MB RAM</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"legal_notice": "© 2014 Fruitbat Factory, Inc. All rights reserved.",
+		"developers": ["Yakiniku Banzai"],
+		"publishers": ["Fruitbat Factory"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 15000000,
+			"final": 15000000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "150.000₫"
+		},
+		"packages": [44373, 47192],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy War of the Human Tanks - ALTeR",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44373,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "War of the Human Tanks - ALTeR - 150.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 15000000
+					},
+					{
+						"packageid": 47192,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "War of the Human Tanks - ALTeR - Royal Edition - 188.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 18800000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 29,
+				"description": "Steam Trading Cards"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 15,
+				"description": "Stats"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "25",
+				"description": "Adventure"
+			},
+			{
+				"id": "23",
+				"description": "Indie"
+			},
+			{
+				"id": "2",
+				"description": "Strategy"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_334e65f0a7b5f4f86774c17a899e84e1611bb00e.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_334e65f0a7b5f4f86774c17a899e84e1611bb00e.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_878afdc3b46194e89e96a2bdc3b4f7c1c0a911e8.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_878afdc3b46194e89e96a2bdc3b4f7c1c0a911e8.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_887c5474085897cfddfcc56ec641d0de11477a0d.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_887c5474085897cfddfcc56ec641d0de11477a0d.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_837c44d11b812b78338c70eb6646dc288db191c9.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_837c44d11b812b78338c70eb6646dc288db191c9.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 4,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_9f9ae356f4c541caee016dca13538890990ee40c.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_9f9ae356f4c541caee016dca13538890990ee40c.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 5,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_be9993645889d0f5ceca22edd66996f7962310bf.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_be9993645889d0f5ceca22edd66996f7962310bf.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 6,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_ec5039d53e1bfe6b5725c1c91b781634e70499e2.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_ec5039d53e1bfe6b5725c1c91b781634e70499e2.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 7,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_84bb35a3bafbbe8acc74990c56ac90d432fc8ec2.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_84bb35a3bafbbe8acc74990c56ac90d432fc8ec2.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 8,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_efca98d74d1f068a2596f260c14fe325c00702f0.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_efca98d74d1f068a2596f260c14fe325c00702f0.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 9,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_852af3a22fcb08822f013b2adf9ae4e3d36c666f.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_852af3a22fcb08822f013b2adf9ae4e3d36c666f.1920x1080.jpg?t=1645780663"
+			},
+			{
+				"id": 10,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_54636e1c2afabbc18a82da2e5f65db7b2aeb20e1.600x338.jpg?t=1645780663",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301920/ss_54636e1c2afabbc18a82da2e5f65db7b2aeb20e1.1920x1080.jpg?t=1645780663"
+			}
+		],
+		"movies": [
+			{
+				"id": 2036050,
+				"name": "War of the Human Tanks - ALTeR Opening",
+				"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2036050/movie.293x165.jpg?t=1447365819",
+				"webm": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2036050/movie480.webm?t=1447365819",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2036050/movie_max.webm?t=1447365819"
+				},
+				"mp4": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/2036050/movie480.mp4?t=1447365819",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/2036050/movie_max.mp4?t=1447365819"
+				},
+				"highlight": true
+			}
+		],
+		"achievements": {
+			"total": 43,
+			"highlighted": [
+				{
+					"name": "ALTeR",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/85e43eaff0248a8d947ea8a5ad1439e4a750ae4a.jpg"
+				},
+				{
+					"name": "Sniper Elite",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/54ea249f8a5ef857259a7397111531616c2f5f35.jpg"
+				},
+				{
+					"name": "Foil Hats",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/48624e37850c927f95490320108e46b7d3f069c8.jpg"
+				},
+				{
+					"name": "Lethal Cuteness",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/15dabdc58dd28c193acef215430b996691377502.jpg"
+				},
+				{
+					"name": "Twin Win",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/fe237c91a511db68701f55bba733c69da2f68489.jpg"
+				},
+				{
+					"name": "Total Control",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/da48c903fa8a5a79339f6d53d53f55688395c180.jpg"
+				},
+				{
+					"name": "Helmaniac",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/6020429b219a27b9bd48e8133b8846a7f8040c07.jpg"
+				},
+				{
+					"name": "A Closetful of Hats",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/b933438aa6b61373b31a6fe802c2a76d693f52be.jpg"
+				},
+				{
+					"name": "Cardboard Warrior Ruru",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/767cedc57c9e5431e7028024af6dd35efd4dd925.jpg"
+				},
+				{
+					"name": "Devastation",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301920/4daa0520d19f1ab6b3b4f2acf2b3b9242ed385a1.jpg"
+				}
+			]
+		},
+		"release_date": {
+			"coming_soon": false,
+			"date": "13 Feb, 2015"
+		},
+		"support_info": {
+			"url": "",
+			"email": "support@fruitbatfactory.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301920/page_bg_generated_v6b.jpg?t=1645780663",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301920/page.bg.jpg?t=1645780663",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "game",
+		"name": "War of the Human Tanks - Limited Operations",
+		"steam_appid": 301930,
+		"required_age": 0,
+		"is_free": false,
+		"dlc": [312340],
+		"detailed_description": "War of the Human Tanks - Limited Operations is the third game of the 'War of the Human Tanks' series.<br><br>In 'Japon', a country bearing a close resemblance to modern-day Japan, 'Human Tanks' have been fighting a sequence of wars against each other. Due to the reduction of 'radiotoxic particles', their fuel, their era is considered to be about to end. While their end comes to one tank after another, the very final war of Human Tanks is on the verge of beginning. <br><br>Seek out, charge and self-destruct to destroy your enemies in this strategy game! <br>Lead your Human Tanks and complete your missions!<br><br>This is a strategy game where you control Human Tanks - human-shaped tanks - and fight against other Human Tanks on the side of the hostile country.<br>Scout out the enemy and plan your strategy, but remember that your tanks will go down in one hit and be lost forever.<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li>Over 50 missions with strategic, semi real-time battles<br></li><li>Challenging &quot;Limits&quot; to clear on all missions<br></li><li>Countless cute Human Tanks to battle with and against<br></li><li>Replay missions at any time to improve your rank <br></li><li>English localization features hand-drawn battle backgrounds and an improved user interface</li></ul><br><strong>Story</strong><br>The land of Japon has been split in two and thrown into war by two nations, the Empire of Japon and the Kingdom of Japon, who use biological weapons known as &quot;Human Tanks&quot; to fight their war. But now the war between these two has turned into a proxy war between the Human Tanks themselves.<br><br>The stage is a land not unlike modern day Japan - the land of Japon. The Empire of Japon and the Kingdom of Japon, two nations locked in war for an age, have finally agreed to a ceasefire to end the bloodshed. <br><br>To improve relations between the two countries, and due to the decrease of the radiotoxic particles that the Human Tanks use as fuel, the tanks themselves are about to disappear from all of Japon.<br><br>Fifty years since Human Tanks were first developed...<br><br>Our hero, Yatarou Shirahase, acting as an officer in the Imperial army, is dispatched on a mission to subjugate the Human Tanks. He must now battle an enemy of the same make as his own beloved company of Human Tanks.",
+		"about_the_game": "War of the Human Tanks - Limited Operations is the third game of the 'War of the Human Tanks' series.<br><br>In 'Japon', a country bearing a close resemblance to modern-day Japan, 'Human Tanks' have been fighting a sequence of wars against each other. Due to the reduction of 'radiotoxic particles', their fuel, their era is considered to be about to end. While their end comes to one tank after another, the very final war of Human Tanks is on the verge of beginning. <br><br>Seek out, charge and self-destruct to destroy your enemies in this strategy game! <br>Lead your Human Tanks and complete your missions!<br><br>This is a strategy game where you control Human Tanks - human-shaped tanks - and fight against other Human Tanks on the side of the hostile country.<br>Scout out the enemy and plan your strategy, but remember that your tanks will go down in one hit and be lost forever.<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li>Over 50 missions with strategic, semi real-time battles<br></li><li>Challenging &quot;Limits&quot; to clear on all missions<br></li><li>Countless cute Human Tanks to battle with and against<br></li><li>Replay missions at any time to improve your rank <br></li><li>English localization features hand-drawn battle backgrounds and an improved user interface</li></ul><br><strong>Story</strong><br>The land of Japon has been split in two and thrown into war by two nations, the Empire of Japon and the Kingdom of Japon, who use biological weapons known as &quot;Human Tanks&quot; to fight their war. But now the war between these two has turned into a proxy war between the Human Tanks themselves.<br><br>The stage is a land not unlike modern day Japan - the land of Japon. The Empire of Japon and the Kingdom of Japon, two nations locked in war for an age, have finally agreed to a ceasefire to end the bloodshed. <br><br>To improve relations between the two countries, and due to the decrease of the radiotoxic particles that the Human Tanks use as fuel, the tanks themselves are about to disappear from all of Japon.<br><br>Fifty years since Human Tanks were first developed...<br><br>Our hero, Yatarou Shirahase, acting as an officer in the Imperial army, is dispatched on a mission to subjugate the Human Tanks. He must now battle an enemy of the same make as his own beloved company of Human Tanks.",
+		"short_description": "War of the Human Tanks - Limited Operations is the third and final game in the War of the Human Tanks series. Complete difficult missions with pre-assigned resources and face up against even harder opponents!",
+		"supported_languages": "English",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301930/header.jpg?t=1645780670",
+		"website": "http://fruitbatfactory.com/humantanks/limitedoperations/",
+		"pc_requirements": {
+			"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10/11<br></li><li><strong>Processor:</strong> PentiumIII or higher<br></li><li><strong>Memory:</strong> 512 MB RAM</li></ul>"
+		},
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"legal_notice": "© 2014 Fruitbat Factory, Inc. All rights reserved.",
+		"developers": ["Yakiniku Banzai"],
+		"publishers": ["Fruitbat Factory"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 12000000,
+			"final": 12000000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "120.000₫"
+		},
+		"packages": [44376, 47201],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy War of the Human Tanks - Limited Operations",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44376,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "War of the Human Tanks - Limited Operations - 120.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 12000000
+					},
+					{
+						"packageid": 47201,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "War of the Human Tanks - Limited Operations: Unlimited Edition - 150.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 15000000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": false,
+			"linux": false
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 29,
+				"description": "Steam Trading Cards"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 15,
+				"description": "Stats"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"genres": [
+			{
+				"id": "25",
+				"description": "Adventure"
+			},
+			{
+				"id": "23",
+				"description": "Indie"
+			},
+			{
+				"id": "2",
+				"description": "Strategy"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_64a17ebd09b7a25cfeaa99dedfad6c7b3541e1c3.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_64a17ebd09b7a25cfeaa99dedfad6c7b3541e1c3.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 1,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_98ef0312a7ebedab18c97a498971af19163e53c6.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_98ef0312a7ebedab18c97a498971af19163e53c6.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 2,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_e27431ad2d0e8c121018aa5ea326a3734ad7ddfa.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_e27431ad2d0e8c121018aa5ea326a3734ad7ddfa.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 3,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_6521ff68a54f0958c246b245d9a065a1dcd6e479.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_6521ff68a54f0958c246b245d9a065a1dcd6e479.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 4,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_bb90367e466d7ee20d727413d19b488524ec06fb.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_bb90367e466d7ee20d727413d19b488524ec06fb.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 5,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_5d7080738131102f55a39b874fb4ffe4934f1243.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_5d7080738131102f55a39b874fb4ffe4934f1243.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 6,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_7493a4417b4185ccea99577be5048c47ab1296b9.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_7493a4417b4185ccea99577be5048c47ab1296b9.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 7,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_de38363eb9b8ccbbe2112806ec19f0614351e48a.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_de38363eb9b8ccbbe2112806ec19f0614351e48a.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 8,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_f3d6f782f6b6ddbcb07ebfd478c925267afde534.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_f3d6f782f6b6ddbcb07ebfd478c925267afde534.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 9,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_0c31b71482e0433abfd45aa16306f03c2f3db330.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_0c31b71482e0433abfd45aa16306f03c2f3db330.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 10,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_b664565a4f90d203a6755d238c8877916ae2d2e5.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_b664565a4f90d203a6755d238c8877916ae2d2e5.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 11,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_e65d1a817ef2f6e85c4ae9806a151e5af5f22a10.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_e65d1a817ef2f6e85c4ae9806a151e5af5f22a10.1920x1080.jpg?t=1645780670"
+			},
+			{
+				"id": 12,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_2678ec985668f9d686cf12e34f5a2aeb8d398745.600x338.jpg?t=1645780670",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301930/ss_2678ec985668f9d686cf12e34f5a2aeb8d398745.1920x1080.jpg?t=1645780670"
+			}
+		],
+		"movies": [
+			{
+				"id": 256665855,
+				"name": "War of the Human Tanks - Limited Operations Launch Trailer",
+				"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256665855/movie.293x165.jpg?t=1466383305",
+				"webm": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/256665855/movie480.webm?t=1466383305",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/256665855/movie_max.webm?t=1466383305"
+				},
+				"mp4": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/256665855/movie480.mp4?t=1466383305",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/256665855/movie_max.mp4?t=1466383305"
+				},
+				"highlight": true
+			},
+			{
+				"id": 256655353,
+				"name": "War of the Human Tanks - Limited Operations Opening",
+				"thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256655353/movie.293x165.jpg?t=1465500913",
+				"webm": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/256655353/movie480.webm?t=1465500913",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/256655353/movie_max.webm?t=1465500913"
+				},
+				"mp4": {
+					"480": "http://cdn.akamai.steamstatic.com/steam/apps/256655353/movie480.mp4?t=1465500913",
+					"max": "http://cdn.akamai.steamstatic.com/steam/apps/256655353/movie_max.mp4?t=1465500913"
+				},
+				"highlight": true
+			}
+		],
+		"achievements": {
+			"total": 28,
+			"highlighted": [
+				{
+					"name": "Limited Operations",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/6c38c880f73f17b0d05be9d97b590d9f8b69c220.jpg"
+				},
+				{
+					"name": "Bounty Hunter",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/e3d06acb9d5f9d93ad961b0096a254fdc1e1ec18.jpg"
+				},
+				{
+					"name": "No Tank Left Behind",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/891bb05f63ffac88b80a53dd24bdea44273a45f1.jpg"
+				},
+				{
+					"name": "Blind Luck",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/6a7f15b00cfc7f9015f59d4875239a4adb0fdbe3.jpg"
+				},
+				{
+					"name": "Last Girl Standing",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/8873475d6a2dc8a4f6a39644dc6169d88ffe9dd4.jpg"
+				},
+				{
+					"name": "No time to explain",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/2f4592e32a278cfb1e8a57696d4f8716f85f9c9f.jpg"
+				},
+				{
+					"name": "No Surprises",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/6fc5a32086cebad791c6603dc3a5874f30a637c1.jpg"
+				},
+				{
+					"name": "Perfect Accuracy",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/71a9c5016e6a00a7e332ed9996e3034b6af53dc3.jpg"
+				},
+				{
+					"name": "Laser Guided Artillery",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/5e827b848f67329251989346422df2cc9fd267ae.jpg"
+				},
+				{
+					"name": "Tougou's Disciples",
+					"path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/301930/6486c7b12b330ac36b3ef2c3c052168875672745.jpg"
+				}
+			]
+		},
+		"release_date": {
+			"coming_soon": false,
+			"date": "13 Jun, 2016"
+		},
+		"support_info": {
+			"url": "",
+			"email": "support@fruitbatfactory.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301930/page_bg_generated_v6b.jpg?t=1645780670",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301930/page.bg.jpg?t=1645780670",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	},
+	{
+		"type": "music",
+		"name": "6180 the moon - Soundtrack",
+		"steam_appid": 301950,
+		"required_age": 0,
+		"is_free": false,
+		"detailed_description": "Original soundtrack for 6180 the moon.<br />\r\nComposed by  Seongyi Yi and Chaeeun Kim.",
+		"about_the_game": "Original soundtrack for 6180 the moon.<br />\r\nComposed by  Seongyi Yi and Chaeeun Kim.",
+		"short_description": "Original soundtrack for 6180 the moon. Composed by Seongyi Yi and Chaeeun Kim.",
+		"fullgame": {
+			"appid": "299660",
+			"name": "6180 the moon"
+		},
+		"supported_languages": "English",
+		"header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301950/header.jpg?t=1581558159",
+		"website": null,
+		"pc_requirements": [],
+		"mac_requirements": [],
+		"linux_requirements": [],
+		"developers": ["Turtle Cream & Pokpoong Games"],
+		"publishers": ["Turtle Cream"],
+		"price_overview": {
+			"currency": "VND",
+			"initial": 4300000,
+			"final": 4300000,
+			"discount_percent": 0,
+			"initial_formatted": "",
+			"final_formatted": "43.000₫"
+		},
+		"packages": [44381],
+		"package_groups": [
+			{
+				"name": "default",
+				"title": "Buy 6180 the moon - Soundtrack",
+				"description": "",
+				"selection_text": "Select a purchase option",
+				"save_text": "",
+				"display_type": 0,
+				"is_recurring_subscription": "false",
+				"subs": [
+					{
+						"packageid": 44381,
+						"percent_savings_text": " ",
+						"percent_savings": 0,
+						"option_text": "6180 the moon - Soundtrack - 43.000₫",
+						"option_description": "",
+						"can_get_free_license": "0",
+						"is_free_license": false,
+						"price_in_cents_with_discount": 4300000
+					}
+				]
+			}
+		],
+		"platforms": {
+			"windows": true,
+			"mac": true,
+			"linux": true
+		},
+		"categories": [
+			{
+				"id": 2,
+				"description": "Single-player"
+			},
+			{
+				"id": 1,
+				"description": "Multi-player"
+			},
+			{
+				"id": 21,
+				"description": "Downloadable Content"
+			},
+			{
+				"id": 22,
+				"description": "Steam Achievements"
+			},
+			{
+				"id": 18,
+				"description": "Partial Controller Support"
+			},
+			{
+				"id": 23,
+				"description": "Steam Cloud"
+			},
+			{
+				"id": 25,
+				"description": "Steam Leaderboards"
+			}
+		],
+		"screenshots": [
+			{
+				"id": 0,
+				"path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/301950/ss_c377f1275acd66892adba25bed3ec786dfcb7cf3.600x338.jpg?t=1581558159",
+				"path_full": "https://cdn.akamai.steamstatic.com/steam/apps/301950/ss_c377f1275acd66892adba25bed3ec786dfcb7cf3.1920x1080.jpg?t=1581558159"
+			}
+		],
+		"release_date": {
+			"coming_soon": false,
+			"date": "19 Sep, 2014"
+		},
+		"support_info": {
+			"url": "http://www.turtle-cream.com",
+			"email": "turtlebot@turtle-cream.com"
+		},
+		"background": "https://cdn.akamai.steamstatic.com/steam/apps/301950/page_bg_generated_v6b.jpg?t=1581558159",
+		"background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/301950/page.bg.jpg?t=1581558159",
+		"content_descriptors": {
+			"ids": [],
+			"notes": null
+		}
+	}
+]

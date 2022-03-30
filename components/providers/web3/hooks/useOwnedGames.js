@@ -1,5 +1,5 @@
 import { createCourseHash } from '@utils/hash';
-import { normalizeOwnedGame } from '@utils/normalize';
+import { normalizeOwnedCourse } from '@utils/normalize';
 import useSWR from 'swr';
 
 export const handler = (web3, contract) => (games, account) => {
@@ -21,7 +21,7 @@ export const handler = (web3, contract) => (games, account) => {
 					.call();
 
 				if (ownedGame.owner !== '0x0000000000000000000000000000000000000000') {
-					const normalized = normalizeOwnedGame(web3)(game, ownedGame);
+					const normalized = normalizeOwnedCourse(web3)(game, ownedGame);
 					ownedGames.push(normalized);
 				}
 			}

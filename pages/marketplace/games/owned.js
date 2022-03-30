@@ -14,6 +14,7 @@ import Link from 'next/link';
 import { useWeb3 } from '@components/providers';
 import { fetchSteamGames } from '@utils/fetchSteamGames';
 import { OwnedGameCard } from '@components/ui/game';
+import { getAllGames } from '@content/steams/fetcher';
 
 export default function OwnedCourses({ games }) {
 	const router = useRouter();
@@ -73,15 +74,27 @@ export default function OwnedCourses({ games }) {
 // 	};
 // }
 
-export async function getStaticProps() {
-	const data = await fetchSteamGames();
+// export async function getStaticProps() {
+// 	const data = await fetchSteamGames();
+// 	// const data = await fetchDetailGame(1855390);
+// 	// Retrieving assets from OPENSEA API
+// 	if (!data) {
+// 		return {
+// 			notFound: true,
+// 		};
+// 	}
+
+// 	return {
+// 		props: {
+// 			games: data,
+// 		}, // will be passed to the page component as props
+// 	};
+// }
+
+export function getStaticProps() {
+	const data = getAllGames();
 	// const data = await fetchDetailGame(1855390);
 	// Retrieving assets from OPENSEA API
-	if (!data) {
-		return {
-			notFound: true,
-		};
-	}
 
 	return {
 		props: {

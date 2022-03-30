@@ -5,6 +5,7 @@ import { getAllCourse } from '@content/courses/fetcher';
 import { useOwnedGame, useAccount } from '@components/hooks/web3';
 import { useWeb3 } from '@components/providers';
 import { fetchSteamGames } from '@utils/fetchSteamGames';
+import { getAllGames } from '@content/steams/fetcher';
 
 export default function Game({ game }) {
 	const { isLoading } = useWeb3();
@@ -14,9 +15,7 @@ export default function Game({ game }) {
 	// const gameState = 'deactivated';
 
 	const isLocked =
-		!gameState ||
-		gameState === 'purchased' ||
-		gameState === 'deactivated';
+		!gameState || gameState === 'purchased' || gameState === 'deactivated';
 
 	return (
 		<>
@@ -34,8 +33,8 @@ export default function Game({ game }) {
 				<div className="max-w-5xl mx-auto">
 					{gameState === 'purchased' && (
 						<Message type="warning">
-							Game is purchased and waiting for activation. Process can take
-							up to 24 hours.
+							Game is purchased and waiting for activation. Process can take up
+							to 24 hours.
 							<i className="block font-normal">
 								In case of any questions, please contact kingauther33@gmail.com
 							</i>
@@ -46,9 +45,11 @@ export default function Game({ game }) {
 					)}
 					{gameState === 'deactivated' && (
 						<Message type="danger">
-							Game has been deactivated, due to the incorrect purchase data.
-							The functionality to watch the course has been temporaly disabled
-							<i className="block font-normal">Please contact kingauther33@gmail.com</i>
+							Game has been deactivated, due to the incorrect purchase data. The
+							functionality to watch the course has been temporaly disabled
+							<i className="block font-normal">
+								Please contact kingauther33@gmail.com
+							</i>
 						</Message>
 					)}
 				</div>
@@ -64,8 +65,52 @@ export default function Game({ game }) {
 	);
 }
 
-export async function getStaticPaths() {
-	const data = await fetchSteamGames();
+// export function getStaticProps({ params }) {
+// 	const { data } = getAllCourse();
+// 	const course = data.filter((c) => c.slug === params.slug)[0];
+
+// 	return {
+// 		props: { course },
+// 	};
+// }
+
+// export async function getStaticPaths() {
+// 	const data = await fetchSteamGames();
+
+// 	return {
+// 		paths: data.map((c) => ({
+// 			params: {
+// 				steam_appid: String(c.steam_appid),
+// 			},
+// 		})),
+// 		fallback: false,
+// 	};
+// }
+
+// export async function getStaticProps({ params }) {
+// 	const data = await fetchSteamGames();
+// 	// const data = await fetchDetailGame(1855390);
+// 	// Retrieving assets from OPENSEA API
+
+// 	const game = data.filter((c) => c.steam_appid == params.steam_appid)[0];
+
+// 	console.log(game);
+
+// 	if (!game) {
+// 		return {
+// 			notFound: true,
+// 		};
+// 	}
+
+// 	return {
+// 		props: {
+// 			game,
+// 		}, // will be passed to the page component as props
+// 	};
+// }
+
+export function getStaticPaths() {
+	const {data} = getAllGames();
 
 	return {
 		paths: data.map((c) => ({
@@ -77,17 +122,8 @@ export async function getStaticPaths() {
 	};
 }
 
-// export function getStaticProps({ params }) {
-// 	const { data } = getAllCourse();
-// 	const course = data.filter((c) => c.slug === params.slug)[0];
-
-// 	return {
-// 		props: { course },
-// 	};
-// }
-
-export async function getStaticProps({ params }) {
-	const data = await fetchSteamGames();
+export function getStaticProps({ params }) {
+	const {data} = getAllGames();
 	// const data = await fetchDetailGame(1855390);
 	// Retrieving assets from OPENSEA API
 

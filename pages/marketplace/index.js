@@ -9,6 +9,7 @@ import { useState } from 'react';
 import { useWeb3 } from '@components/providers';
 import { withToast } from '@utils/toast';
 import { fetchSteamGames } from '@utils/fetchSteamGames';
+import { getAllGames } from '@content/steams/fetcher';
 export default function GameMarketPlace({ games }) {
 	const { web3, contract, requireInstall } = useWeb3();
 	const { hasConnectedWallet, isConnecting, account } = useWalletInfo();
@@ -17,6 +18,8 @@ export default function GameMarketPlace({ games }) {
 	const [selectedGame, setSelectedGame] = useState(null);
 	const [busyCourseId, setBusyCourseId] = useState(null);
 	const [isNewPurchase, setIsNewPurchase] = useState(true);
+
+	console.log(games);
 
 	const purchaseCourse = async (order, game) => {
 		const hexCourseId = web3.utils.utf8ToHex(String(game.steam_appid));
@@ -248,8 +251,25 @@ export default function GameMarketPlace({ games }) {
 // 	};
 // }
 
-export async function getStaticProps() {
-	const data = await fetchSteamGames();
+// export async function getStaticProps() {
+// 	const data = await fetchSteamGames();
+// 	// const data = await fetchDetailGame(1855390);
+// 	// Retrieving assets from OPENSEA API
+// 	if (!data) {
+// 		return {
+// 			notFound: true,
+// 		};
+// 	}
+
+// 	return {
+// 		props: {
+// 			games: data,
+// 		}, // will be passed to the page component as props
+// 	};
+// }
+
+export function getStaticProps() {
+	const {data} = getAllGames();
 	// const data = await fetchDetailGame(1855390);
 	// Retrieving assets from OPENSEA API
 	if (!data) {
