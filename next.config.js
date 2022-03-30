@@ -9,7 +9,7 @@ const nextConfig = {
 		return config;
 	},
 	images: {
-		domains: ['thrangra.sirv.com'],
+		domains: ['thrangra.sirv.com', 'cdn.akamai.steamstatic.com'],
 	},
 };
 

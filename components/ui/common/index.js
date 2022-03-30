@@ -2,6 +2,7 @@ export { default as Footer } from './footer';
 export { default as Navbar } from './navbar';
 export { default as Hero } from './hero';
 export { default as BreadCrumb } from './breadcrumbs';
+export { default as GameBreadCrumb } from './gameBreadcrumbs';
 export { default as Modal } from './modal';
 export { default as Button } from './button';
 export { default as ActiveLink } from './link';

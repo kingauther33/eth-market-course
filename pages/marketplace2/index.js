@@ -1,25 +1,24 @@
-import { useWalletInfo, useOwnedGames } from '@components/hooks/web3';
+import { useWalletInfo, useOwnedCourses } from '@components/hooks/web3';
 import { Button, Loader, Message } from '@components/ui/common';
 import { CourseCard, CourseList, OwnedCourseCard } from '@components/ui/course';
-import { GameList, GameCard } from '@components/ui/game';
 import { BaseLayout } from '@components/ui/layout';
-import { GameMarketHeader, MarketHeader } from '@components/ui/marketplace';
-import { OrderModal, GameModal } from '@components/ui/order';
+import { MarketHeader } from '@components/ui/marketplace';
+import { OrderModal } from '@components/ui/order';
+import { getAllCourse } from '@content/courses/fetcher';
 import { useState } from 'react';
 import { useWeb3 } from '@components/providers';
 import { withToast } from '@utils/toast';
-import { fetchSteamGames } from '@utils/fetchSteamGames';
-export default function GameMarketPlace({ games }) {
+export default function MarketPlace({ courses }) {
 	const { web3, contract, requireInstall } = useWeb3();
 	const { hasConnectedWallet, isConnecting, account } = useWalletInfo();
-	const { ownedGames } = useOwnedGames(games, account.data);
+	const { ownedCourses } = useOwnedCourses(courses, account.data);
 
-	const [selectedGame, setSelectedGame] = useState(null);
+	const [selectedCourse, setSelectedCourse] = useState(null);
 	const [busyCourseId, setBusyCourseId] = useState(null);
 	const [isNewPurchase, setIsNewPurchase] = useState(true);
 
-	const purchaseCourse = async (order, game) => {
-		const hexCourseId = web3.utils.utf8ToHex(String(game.steam_appid));
+	const purchaseCourse = async (order, course) => {
+		const hexCourseId = web3.utils.utf8ToHex(course.id);
 		const orderHash = web3.utils.soliditySha3(
 			{ type: 'bytes16', value: hexCourseId },
 			{ type: 'address', value: account.data }
@@ -27,7 +26,7 @@ export default function GameMarketPlace({ games }) {
 
 		const value = web3.utils.toWei(String(order.price), 'ether');
 
-		setBusyCourseId(game.steam_appid);
+		setBusyCourseId(course.id);
 		if (isNewPurchase) {
 			const emailHash = web3.utils.sha3(order.email);
 			const proof = web3.utils.soliditySha3(
@@ -35,21 +34,21 @@ export default function GameMarketPlace({ games }) {
 				{ type: 'bytes32', value: orderHash }
 			);
 
-			withToast(_purchaseCourse({ hexCourseId, proof, value }, game));
+			withToast(_purchaseCourse({ hexCourseId, proof, value }, course));
 		} else {
-			withToast(_repurchaseCourse({ courseHash: orderHash, value }, game));
+			withToast(_repurchaseCourse({ courseHash: orderHash, value }, course));
 		}
 	};
 
-	const _purchaseCourse = async ({ hexCourseId, proof, value }, game) => {
+	const _purchaseCourse = async ({ hexCourseId, proof, value }, course) => {
 		try {
 			const results = await contract.methods
 				.purchaseCourse(hexCourseId, proof)
 				.send({ from: account.data, value });
-			ownedGames.mutate([
-				...ownedGames.data,
+			ownedCourses.mutate([
+				...ownedCourses.data,
 				{
-					...game,
+					...course,
 					proof,
 					state: 'purchased',
 					owner: account.data,
@@ -64,20 +63,18 @@ export default function GameMarketPlace({ games }) {
 		}
 	};
 
-	const _repurchaseCourse = async ({ courseHash, value }, game) => {
+	const _repurchaseCourse = async ({ courseHash, value }, course) => {
 		try {
 			const results = await contract.methods
 				.repurchaseCourse(courseHash)
 				.send({ from: account.data, value });
 
-			const index = ownedGames.data.findIndex(
-				(c) => c.steam_appid === game.steam_appid
-			);
+			const index = ownedCourses.data.findIndex((c) => c.id === course.id);
 			if (index >= 0) {
-				ownedGames.data[index].state = 'purchased';
-				ownedGames.mutate(ownedGames.data);
+				ownedCourses.data[index].state = 'purchased';
+				ownedCourses.mutate(ownedCourses.data);
 			} else {
-				ownedGames.mutate();
+				ownedCourses.mutate();
 			}
 			return results;
 		} catch (error) {
@@ -105,24 +102,24 @@ export default function GameMarketPlace({ games }) {
 	};
 
 	const cleanupModal = () => {
-		setSelectedGame(null);
+		setSelectedCourse(null);
 		setIsNewPurchase(true);
 	};
 
 	return (
 		<>
-			<GameMarketHeader />
+			<MarketHeader />
 			{/* <Button onClick={notify}>Notify</Button> */}
 
-			<GameList games={games}>
-				{(game) => {
-					const owned = ownedGames.lookup[game.steam_appid];
+			<CourseList courses={courses}>
+				{(course) => {
+					const owned = ownedCourses.lookup[course.id];
 					return (
-						<GameCard
+						<CourseCard
 							disabled={!hasConnectedWallet}
-							key={game.steam_appid}
+							key={course.id}
 							state={owned?.state}
-							game={game}
+							course={course}
 							Footer={() => {
 								if (requireInstall) {
 									return (
@@ -150,7 +147,7 @@ export default function GameMarketPlace({ games }) {
 									);
 								}
 
-								if (!ownedGames.hasInitialResponse) {
+								if (!ownedCourses.hasInitialResponse) {
 									// return <div style={{ height: '42px' }}></div>;
 									return (
 										<Button variant="white" disabled={true} size="sm">
@@ -159,13 +156,13 @@ export default function GameMarketPlace({ games }) {
 									);
 								}
 
-								const isBusy = busyCourseId === game.steam_appid;
+								const isBusy = busyCourseId === course.id;
 								if (owned) {
 									return (
 										<>
 											<div className="flex">
 												<Button
-													onClick={() => alert('You are owner of this game')}
+													onClick={() => alert('You are owner of this course')}
 													size="sm"
 													disabled={false}
 													variant="white"
@@ -180,7 +177,7 @@ export default function GameMarketPlace({ games }) {
 															variant="purple"
 															onClick={() => {
 																setIsNewPurchase(false);
-																setSelectedGame(game);
+																setSelectedCourse(course);
 															}}
 														>
 															{isBusy ? (
@@ -206,7 +203,7 @@ export default function GameMarketPlace({ games }) {
 										variant="lightPurple"
 										hoverable={hasConnectedWallet}
 										onClick={() => {
-											setSelectedGame(game);
+											setSelectedCourse(course);
 										}}
 									>
 										{isBusy ? (
@@ -223,46 +220,29 @@ export default function GameMarketPlace({ games }) {
 						/>
 					);
 				}}
-			</GameList>
-			{selectedGame && (
-				<GameModal
+			</CourseList>
+			{selectedCourse && (
+				<OrderModal
 					isNewPurchase={isNewPurchase}
 					onClose={cleanupModal}
-					onSubmit={(formData, game) => {
-						purchaseCourse(formData, game);
+					onSubmit={(formData, course) => {
+						purchaseCourse(formData, course);
 						cleanupModal();
 					}}
-					game={selectedGame}
+					course={selectedCourse}
 				/>
 			)}
 		</>
 	);
 }
 
-// export function getStaticProps() {
-// 	const { data } = getAllCourse();
-// 	return {
-// 		props: {
-// 			courses: data,
-// 		},
-// 	};
-// }
-
-export async function getStaticProps() {
-	const data = await fetchSteamGames();
-	// const data = await fetchDetailGame(1855390);
-	// Retrieving assets from OPENSEA API
-	if (!data) {
-		return {
-			notFound: true,
-		};
-	}
-
+export function getStaticProps() {
+	const { data } = getAllCourse();
 	return {
 		props: {
-			games: data,
-		}, // will be passed to the page component as props
+			courses: data,
+		},
 	};
 }
 
-GameMarketPlace.Layout = BaseLayout;
+MarketPlace.Layout = BaseLayout;

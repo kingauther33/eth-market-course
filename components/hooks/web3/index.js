@@ -76,6 +76,22 @@ export const useOwnedCourse = (...args) => {
 	};
 };
 
+export const useOwnedGames = (...args) => {
+	const swrRes = enhanceHook(useHooks((hooks) => hooks.useOwnedGames)(...args));
+
+	return {
+		ownedGames: swrRes,
+	};
+};
+
+export const useOwnedGame = (...args) => {
+	const swrRes = enhanceHook(useHooks((hooks) => hooks.useOwnedGame)(...args));
+
+	return {
+		ownedGame: swrRes,
+	};
+};
+
 export const useManagedCourses = (...args) => {
 	const swrRes = enhanceHook(
 		useHooks((hooks) => hooks.useManagedCourses)(...args)

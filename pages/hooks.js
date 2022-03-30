@@ -1,3 +1,4 @@
+import { fetchSteamGames, fetchDetailGame } from '@utils/fetchSteamGames';
 import { useState, useEffect } from 'react';
 
 const useCounter = () => {
@@ -17,14 +18,32 @@ const SimpleComponent = () => {
 	return <h1>Simple Component</h1>;
 };
 
-export default function HooksPage() {
-	const count = useCounter();
+export default function HooksPage({ data }) {
+	// const count = useCounter();
 	console.log('CALLING - HOOKS');
+	console.log(data);
 
 	return (
 		<>
-			<div>Hooks - {count}</div>
+			{/* <div>Hooks - {count}</div> */}
 			<SimpleComponent />
 		</>
 	);
+}
+
+export async function getStaticProps() {
+	const data = await fetchSteamGames();
+	// const data = await fetchDetailGame(1855390);
+	// Retrieving assets from OPENSEA API
+	if (!data) {
+		return {
+			notFound: true,
+		};
+	}
+
+	return {
+		props: {
+			data,
+		}, // will be passed to the page component as props
+	};
 }
